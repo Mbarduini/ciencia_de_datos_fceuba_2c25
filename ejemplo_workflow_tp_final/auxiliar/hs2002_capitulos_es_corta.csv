@@ -1,0 +1,99 @@
+codigo,descripcion,descripcion_corta
+01,01 - Animales vivos,Animales vivos
+02,02 - Carne y despojos comestibles,Carne y despojos
+03,"03 - Pescados y crustáceos, moluscos y demás invertebrados acuáticos",Pescados y mariscos
+04,"04 - Leche y productos lácteos; huevos de ave; miel natural; productos comestibles de origen animal, no expresados ni comprendidos en otra parte",Lácteos y huevos
+05,"05 - Los demás productos de origen animal no expresados ni comprendidos en otra parte",Otros productos animales
+06,"06 - Plantas vivas y productos de la floricultura",Plantas y flores
+07,07 - Hortalizas y ciertas raíces y tubérculos comestibles,Hortalizas y tubérculos
+08,08 - Frutas y frutos comestibles; cortezas de agrios (cítricos) o de melones,Frutas y frutos
+09,"09 - Café, té, yerba mate y especias","Café, té y especias"
+10,10 - Cereales,Cereales
+11,"11 - Productos de la molinería; malta; almidón y fécula; inulina; gluten de trigo",Productos de molinería
+12,"12 - Semillas y frutos oleaginosos; semillas y frutos diversos; plantas industriales o medicinales; paja y forraje",Semillas oleaginosas
+13,"13 - Gomas, resinas y demás jugos y extractos vegetales","Gomas, resinas y extractos"
+14,14 - Materias trenzables y demás productos de origen vegetal no expresados ni comprendidos en otra parte,Materias trenzables
+15,"15 - Grasas y aceites animales o vegetales; productos de su desdoblamiento; grasas alimenticias elaboradas; ceras de origen animal o vegetal",Grasas y aceites
+16,"16 - Preparaciones de carne, pescado o de crustáceos, moluscos o demás invertebrados acuáticos","Prep. de carne, pescado"
+17,17 - Azúcares y artículos de confitería,Azúcares y confitería
+18,18 - Cacao y sus preparaciones,Cacao
+19,"19 - Preparaciones a base de cereales, harina, almidón, fécula o leche; productos de pastelería",Prep. de cereales
+20,"20 - Preparaciones de hortalizas, frutas u otros frutos o demás partes de plantas",Prep. de hortalizas y frutas
+21,21 - Preparaciones alimenticias diversas,Prep. alimenticias diversas
+22,"22 - Bebidas, líquidos alcohólicos y vinagre",Bebidas y vinagre
+23,23 - Residuos y desperdicios de las industrias alimentarias; alimentos preparados para animales,Alimentos para animales
+24,24 - Tabaco y sucedáneos del tabaco elaborados,Tabaco
+25,"25 - Sal; azufre; tierras y piedras; yesos, cales y cementos","Sal, azufre y piedras"
+26,"26 - Minerales metalíferos, escorias y cenizas",Minerales metalíferos
+27,"27 - Combustibles minerales, aceites minerales y productos de su destilación; materias bituminosas; ceras minerales",Combustibles minerales
+28,"28 - Productos químicos inorgánicos; compuestos inorgánicos u orgánicos de metal precioso, de elementos radiactivos, de metales de las tierras raras o de isótopos",Productos químicos inorgánicos
+29,29 - Productos químicos orgánicos,Productos químicos orgánicos
+30,30 - Productos farmacéuticos,Productos farmacéuticos
+31,31 - Abonos (fertilizantes),Fertilizantes
+32,"32 - Extractos curtientes o tintóreos; taninos y sus derivados; pigmentos y demás materias colorantes; pinturas y barnices; mástiques; tintas","Pinturas, tintas y barnices"
+33,"33 - Aceites esenciales y resinoides; preparaciones de perfumería, de tocador o de cosmética","Perfumería y cosmética"
+34,"34 - Jabón, agentes de superficie orgánicos, preparaciones para lavar, preparaciones lubricantes, ceras artificiales, ceras preparadas, productos de limpieza, velas y artículos similares, pastas para modelar, ceras para odontología y preparaciones para odontología a base de yeso fraguable","Jabón y prep. de limpieza"
+35,"35 - Materias albuminoideas; productos a base de almidón o de fécula modificados; colas; enzimas","Colas, enzimas y albúminas"
+36,"36 - Pólvora y explosivos; artículos de pirotecnia; fósforos (cerillas); aleaciones pirofóricas; materias inflamables",Explosivos y pirotecnia
+37,37 - Productos fotográficos o cinematográficos,Productos fotográficos
+38,38 - Productos diversos de las industrias químicas,Productos químicos diversos
+39,39 - Plástico y sus manufacturas,Plástico
+40,40 - Caucho y sus manufacturas,Caucho
+41,41 - Pieles (excepto la peletería) y cueros,Pieles y cueros
+42,"42 - Manufacturas de cuero; artículos de talabartería o guarnicionería; artículos de viaje, bolsos de mano (carteras) y continentes similares; manufacturas de tripa","Manufacturas de cuero"
+43,43 - Peletería y confecciones de peletería; peletería facticia o artificial,Peletería
+44,44 - Madera y manufacturas de madera; carbón vegetal,Madera
+45,45 - Corcho y sus manufacturas,Corcho
+46,"46 - Manufacturas de espartería o cestería",Cestería
+47,47 - Pasta de madera o de las demás materias fibrosas celulósicas; papel o cartón para reciclar (desperdicios y desechos),Pasta de papel
+48,"48 - Papel y cartón; manufacturas de pasta de celulosa, de papel o cartón",Papel y cartón
+49,"49 - Productos editoriales, de la prensa y de las demás industrias gráficas; textos manuscritos o mecanografiados y planos",Productos editoriales
+50,50 - Seda,Seda
+51,"51 - Lana y pelo fino u ordinario; hilados y tejidos de crin",Lana
+52,52 - Algodón,Algodón
+53,53 - Las demás fibras textiles vegetales; hilados de papel y tejidos de hilados de papel,Otras fibras vegetales
+54,54 - Filamentos sintéticos o artificiales,Filamentos sintéticos
+55,55 - Fibras sintéticas o artificiales discontinuas,Fibras sintéticas
+56,"56 - Guata, fieltro y tela sin tejer; hilados especiales; cordeles, cuerdas y cordajes; artículos de cordelería","Guata, fieltro y cuerdas"
+57,57 - Alfombras y demás revestimientos para el suelo de materia textil,Alfombras
+58,"58 - Tejidos especiales; superficies textiles con mechón insertado; encajes; tapicería; pasamanería; bordados",Tejidos especiales
+59,"59 - Telas impregnadas, recubiertas, revestidas o estratificadas; artículos técnicos de materia textil",Telas técnicas
+60,60 - Tejidos de punto,Tejidos de punto
+61,"61 - Prendas y complementos (accesorios) de vestir, de punto",Prendas de punto
+62,"62 - Prendas y complementos (accesorios) de vestir, excepto los de punto",Prendas de vestir
+63,"63 - Los demás artículos textiles confeccionados; juegos; prendería y trapos",Artículos textiles confec.
+64,"64 - Calzado, polainas y artículos análogos; partes de estos artículos",Calzado
+65,65 - Sombreros y demás tocados y sus partes,Sombreros y tocados
+66,"66 - Paraguas, sombrillas, quitasoles, bastones, bastones asiento, látigos, fustas y sus partes",Paraguas y bastones
+67,"67 - Plumas y plumón preparados y artículos de plumas o plumón; flores artificiales; manufacturas de cabello",Plumas y flores artif.
+68,"68 - Manufacturas de piedra, yeso fraguable, cemento, amianto (asbesto), mica o materias análogas","Manuf. de piedra, yeso"
+69,69 - Productos cerámicos,Productos cerámicos
+70,70 - Vidrio y sus manufacturas,Vidrio
+71,"71 - Perlas naturales (finas) o cultivadas, piedras preciosas o semipreciosas, metales preciosos, chapados de metal precioso (plaqué) y manufacturas de estas materias; bisutería; monedas","Piedras y metales preciosos"
+72,72 - Fundición, hierro y acero,"Fundición, hierro y acero"
+73,73 - Manufacturas de fundición, hierro o acero,Manuf. de hierro o acero
+74,74 - Cobre y sus manufacturas,Cobre
+75,75 - Níquel y sus manufacturas,Níquel
+76,76 - Aluminio y sus manufacturas,Aluminio
+77,77 - (Reservado para una futura utilización en el Sistema Armonizado),(Reservado)
+78,78 - Plomo y sus manufacturas,Plomo
+79,79 - Zinc y sus manufacturas,Zinc
+80,80 - Estaño y sus manufacturas,Estaño
+81,"81 - Los demás metales comunes; cermets; manufacturas de estas materias",Otros metales comunes
+82,"82 - Herramientas y útiles, artículos de cuchillería y cubiertos de mesa, de metal común; partes de estos artículos, de metal común",Herramientas y cuchillería
+83,83 - Manufacturas diversas de metal común,Manuf. diversas de metal
+84,"84 - Reactores nucleares, calderas, máquinas, aparatos y artefactos mecánicos; partes de estas máquinas o aparatos",Máquinas y aparatos mecánicos
+85,"85 - Máquinas, aparatos y material eléctrico, y sus partes; aparatos de grabación o reproducción de sonido, aparatos de grabación o reproducción de imagen y sonido en televisión, y las partes y accesorios de estos aparatos",Máquinas y aparatos eléctricos
+86,"86 - Vehículos y material para vías férreas o similares y sus partes; aparatos mecánicos (incluso electromecánicos) de señalización para vías de comunicación",Material ferroviario
+87,"87 - Vehículos automóviles, tractores, velocípedos y demás vehículos terrestres, sus partes y accesorios",Vehículos y autopartes
+88,"88 - Aeronaves, vehículos espaciales y sus partes",Aeronaves
+89,"89 - Barcos y demás artefactos flotantes",Barcos
+90,"90 - Instrumentos y aparatos de óptica, fotografía o cinematografía, de medida, control o precisión; instrumentos y aparatos medicoquirúrgicos; partes y accesorios de estos instrumentos o aparatos",Instrumentos de precisión
+91,91 - Aparatos de relojería y sus partes,Relojería
+92,92 - Instrumentos musicales; sus partes y accesorios,Instrumentos musicales
+93,"93 - Armas, municiones y sus partes y accesorios",Armas y municiones
+94,"94 - Muebles; mobiliario medicoquirúrgico; artículos de cama y similares; aparatos de alumbrado no expresados ni comprendidos en otra parte; anuncios, letreros y placas indicadoras luminosos y artículos similares; construcciones prefabricadas",Muebles y alumbrado
+95,"95 - Juguetes, juegos y artículos para recreo o deporte; sus partes y accesorios",Juguetes y deportes
+96,96 - Manufacturas diversas,Manufacturas diversas
+97,"97 - Objetos de arte o colección y antigüedades",Objetos de arte y antigüedades
+99,99 - Mercancías no especificadas según su naturaleza,Mercancías no especificadas
